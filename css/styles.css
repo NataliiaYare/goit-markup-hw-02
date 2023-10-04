@@ -14,13 +14,13 @@ a:link {
 }
 
 .logo {
-  color: #4d5ae5;
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17;
   letter-spacing: 0.54px;
   text-transform: uppercase;
+  color: #4d5ae5;
 }
 
 .logo-studio-heder {
@@ -206,12 +206,12 @@ h1 {
 
 .logo-footer {
   font-family: "Raleway", sans-serif;
-  color: #4d5ae5;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17;
   letter-spacing: 0.54px;
   text-transform: uppercase;
+  color: #4d5ae5;
 }
 
 .logo-studio {
