@@ -46,6 +46,10 @@ ol {
   color: #404bbf;
 }
 
+.contact-us {
+  font-style: normal;
+}
+
 .contacts {
   font-size: 16px;
   line-height: 1.5;
@@ -104,6 +108,7 @@ h1 {
 
 /* Section our stranghts */
 .our-strangths-subtitle {
+  color: #2e2f42;
   text-align: center;
   font-size: 20px;
   font-weight: 500;
@@ -120,6 +125,7 @@ h1 {
 
 /* Header 2 */
 .our-team-title {
+  color: #2e2f42;
   text-align: center;
   font-size: 36px;
   font-weight: 700;
@@ -136,6 +142,7 @@ h1 {
   background: var(--WHITE, #fff);
 }
 .name {
+  color: #2e2f42;
   text-align: center;
   font-size: 20px;
   font-weight: 500;
@@ -157,6 +164,7 @@ h1 {
   background: var(--WHITE, #fff);
 }
 .our-portfolio-title {
+  color: #2e2f42;
   text-align: center;
   font-size: 36px;
   font-weight: 700;
@@ -166,6 +174,7 @@ h1 {
 }
 
 .project-name {
+  color: #2e2f42;
   text-align: center;
   font-size: 20px;
   font-weight: 500;
@@ -196,8 +205,8 @@ h1 {
 }
 
 .logo-footer {
-  color: #4d5ae5;
   font-family: "Raleway", sans-serif;
+  color: #4d5ae5;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17;
